@@ -395,15 +395,15 @@
 
 }
 
+
 .slider-dots__circle{
+  cursor: pointer;
   width: 23px;
   height: 23px;
   background-color: $green;
   border-radius: 50%;
   box-shadow: 0px 0px 35px rgba(74,246, 205, 0.837777);
 }
-
-
 
 .slider-dots__content{
   display: none;
