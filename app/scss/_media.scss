@@ -47,7 +47,6 @@
     text-align: left;
     display: flex;
     flex-direction: column;
-    align-items: center;
   }
   .menu{
     padding-top: 0;
@@ -368,6 +367,9 @@
   }   
   .shop__extras{
       padding-left: 75px;
+  }
+  .header__aside{
+    align-items: center;
   }
 }
 
