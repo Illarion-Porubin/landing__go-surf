@@ -41,11 +41,12 @@
   .header__aside{
     position: absolute;
     border-right: none;
-    height: 108px;
+    height: 100%;
     padding-right: 25px;
     background-color: rgba(#fff, .1);
     text-align: left;
     display: flex;
+    flex-direction: column;
   }
   .menu{
     padding-top: 0;
